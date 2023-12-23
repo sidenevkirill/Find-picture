@@ -3,3 +3,9 @@
     <h1>Самоцветы</h1>
     <p>Найди пару</p>
 </div>
+
+---
+
+<p align="center">
+  <img src="images/screen.png" width="100%" />
+</p>
