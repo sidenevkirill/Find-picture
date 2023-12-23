@@ -6,4 +6,4 @@
 
 ---
 
-![alt tag]([https://sidenevkirill.github.io/BattleBlock/screen/menu.png](https://sidenevkirill.github.io/Find-picture/images/screen.png)https://sidenevkirill.github.io/Find-picture/images/screen.png)
+![alt tag](https://sidenevkirill.github.io/Find-picture/images/screen.png)
