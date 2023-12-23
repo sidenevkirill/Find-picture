@@ -3,7 +3,3 @@
     <h1>Самоцветы</h1>
     <p>Найди пару</p>
 </div>
-
----
-
-![alt tag](https://sidenevkirill.github.io/Find-picture/images/screen.png)
